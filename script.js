@@ -28,6 +28,7 @@ class Square extends Rectangle{
 	getPerimeter()
 	{
 		let peri=4*this._width;
+		return peri;
 	}
 }
 
